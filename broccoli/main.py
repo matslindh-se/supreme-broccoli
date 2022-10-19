@@ -1,3 +1,3 @@
 def is_two(n):
-    return n == 3
+    return n == 2
 
